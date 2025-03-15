@@ -30,8 +30,8 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
    <h3 align="left">
       🎯 My Stack ⇟.
    </h3>
+   <img align="right" alt="" height="220px" src="./src/menu.gif">
   <div style="display: inline_block">
-    <img align="right" alt="" height="220px" src="./src/menu.gif">
 <br>
    <p align="left"> 
       <img align="center" alt="Gi-C" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
