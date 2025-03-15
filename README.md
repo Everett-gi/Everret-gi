@@ -36,7 +36,7 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
       🎯 My Stack ⇟.
    </h3>
   
-<img align="right" alt="Gi-gifStudy" height="300px" src="./src/study.gif" style="max-width: 50%; height: auto;">
+<img align="right" alt="Gi-gifStudy" height="300em" src="./src/study.gif" style="max-width: auto; height: auto;">
 <br>
 <br>
 
