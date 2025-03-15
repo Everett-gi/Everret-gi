@@ -1,18 +1,37 @@
 
 <div>
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=500&size=23&pause=1000&color=B231F7&width=435&lines=HELLO+%F0%9F%91%8B%2C+I'm+Gildean+Monteiro+:D;‡+Be+welcome!+^_^+‡" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=500&size=23&pause=1000&color=B231F7&width=435&lines=HELLO+%F0%9F%91%8B%2C+I'm+Gildean+Monteiro+:D;‡+welcome+to+my+profile!+^_^+‡" alt="Typing SVG" /></a>
 </p>
 </div>
-<br>
+<p align="center">
+<img height="200" width="120" alt" " src="./src/header.gif">
+<img height="200" width="120" alt" " src="./src/header..gif">
+</p>
 
 #
 
+<div>
+<p align="center">Sou um programador Fullstack Jr apaixonado por tecnologia, puzzle e desenvolvimento web. Atualmente, possuo mais afinidade com as linguagens C, HTML, CSS e JS.
+<br>
+<br>
+Tenho uma excelente noção de lógica de programação, o que me permite solucionar problemas de forma eficiente e estruturada. Estou sempre disposto a aprender e utilizar novas linguagens,
+adaptando-me rapidamente a diferentes tecnologias para entregar soluções inovadoras e eficazes.
+<br>
+<br>
+Possuo excelentes habilidades de comunicação, administração e domínio das ferramentas do Microsoft Office. 
+Tenho certificações em desenvolvimento Front-End, Versionamento de código e segurança da informação.
+</p>
+</div>
 
-  <h3 align="left">
+#
+
+<div>
+   <h3 align="left">
       🎯 My Stack ⇟.
-    </h3>
+   </h3>
   <div style="display: inline_block">
+    <img align="right" alt="" height="220px" src="./src/menu.gif">
 <br>
    <p align="left"> 
       <img align="center" alt="Gi-C" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -34,11 +53,13 @@
 <br>
   <div>
     <p align="left">
-      <a href="https://www.linkedin.com/in/gildean-monteiro-do-nascimento-55aa252b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href = "mailto:gmonteiro0808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://instagram.com/gil_dkaiser" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gildean-monteiro-do-nascimento-55aa252b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:gmonteiro0808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br>    
+    <a href="https://instagram.com/gil_dkaiser" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      </p>
   </div>
+</div>
 
 #
 
