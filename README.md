@@ -89,4 +89,8 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
 
    ![Snake animation](https://github.com/Everett-gi/Everret-gi/blob/output/github-contribution-grid-snake-dark.svg)
 
+#
+
+<img align="center" alt="Gi-gifCidade"  height="100%" src="./src/footer.gif" style="max-width: 600px; height: auto;" >
+
   
