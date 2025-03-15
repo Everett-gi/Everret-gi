@@ -27,7 +27,7 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
 #
 
 <br>
-<img align="center" alt=""  height="50%" src="./src/menu.gif">
+<img align="center" alt="Gi-gifCidade"  height="100%" src="./src/menu.gif" style="max-width: 600px; height: auto;" >
 
 #
 
