@@ -27,10 +27,10 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
 #
 
 <div>
+  <img align="right" alt="" height="220px" src="./src/menu.gif">
    <h3 align="left">
       🎯 My Stack ⇟.
    </h3>
-   <img align="right" alt="" height="220px" src="./src/menu.gif">
   <div style="display: inline_block">
 <br>
    <p align="left"> 
